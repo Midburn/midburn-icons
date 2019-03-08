@@ -1,0 +1,11 @@
+{
+  "name": "midburn-icons",
+  "version": "1.0.0",
+  "description": "Midburn's font-icon library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Midburn Tech",
+  "license": "MIT"
+}
