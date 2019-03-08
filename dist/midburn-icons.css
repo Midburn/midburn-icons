@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "midburn-icons";
+    src: url("./midburn-icons.eot?5582c58ac8bdba5e99a158e01266d4cf?#iefix") format("embedded-opentype"),
+url("./midburn-icons.woff2?5582c58ac8bdba5e99a158e01266d4cf") format("woff2"),
+url("./midburn-icons.woff?5582c58ac8bdba5e99a158e01266d4cf") format("woff"),
+url("./midburn-icons.ttf?5582c58ac8bdba5e99a158e01266d4cf") format("truetype"),
+url("./midburn-icons.svg?5582c58ac8bdba5e99a158e01266d4cf#midburn-icons") format("svg");
+}
+
+i[class^="midburn-"]:before, i[class*=" midburn-"]:before {
+    font-family: midburn-icons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.midburn-air:before {
+    content: "\f101";
+}

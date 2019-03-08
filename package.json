@@ -4,8 +4,12 @@
   "description": "Midburn's font-icon library",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "icon-font-generator parsed/*.svg -o dist -p midburn -n midburn-icons"
   },
   "author": "Midburn Tech",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "icon-font-generator": "^2.1.10"
+  }
 }

@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <font id="midburn-icons" horiz-adv-x="60">
+    <font-face font-family="midburn-icons"
+      units-per-em="60" ascent="60"
+      descent="0" />
+    <missing-glyph horiz-adv-x="0" />
+    <glyph glyph-name="air"
+      unicode="&#xF101;"
+      horiz-adv-x="60" d=" M31.42 16H28.58V44H31.42z" />
+  </font>
+</defs>
+</svg>
